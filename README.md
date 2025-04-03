@@ -1,5 +1,4 @@
-# File Sharing App - Test Summary and Automation
-
+# File Sharing App
 ## Project Overview
 
 This project involved testing the quality of a file-sharing web application. The primary objectives were to verify the application's functionality and identify any defects.
@@ -12,14 +11,20 @@ This project involved testing the quality of a file-sharing web application. The
 
 * **Mission of Project:** Conducted testing to verify the quality of the website.
 * **Project Output:**
-    * Test Summary Report & Evaluation (This README serves partially as this)
-    * Bug/Defect Report (See below for findings)
+* Mind map
+* Test Plan
+* Test Scenario
+* Test Case Report
+* Test Summary Report
+* Bug/Defect Report
+* Selenium Test Script
+  
 * **Project Type:** Testing/Verification
 * **Author:** Navya Garikina
+  
 * **Test Case Status:**
-    * Passed: 16 (Hypothetical - Adjust based on actual test results)
-    * Failed: 5 (Hypothetical - Adjust based on actual test results)
-* **Project Duration:**
+    * Passed: 16 
+    * Failed: 5 
     * Start Date: 02-April-2025
     * End Date: 02-April-2025
 
